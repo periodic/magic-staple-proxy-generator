@@ -2,7 +2,9 @@
 
 A common problem I have is sharing cards between multiple decks.  I have more than a few commander decks and I don't want to have to get multiples of expensive cards for all the decks.
 
-This program helps me print out my proxies that I need to keep track of what cards are where.
+This app helps me print out my proxies that I need to keep track of what cards are where.
+
+You can view it at https://periodic.github.io/magic-staple-proxy-generator
 
 My solution is to use a system of proxies that make it easy to swap cards into the correct decks.  It works as follows.
 
@@ -15,7 +17,7 @@ First, you need the following:
 1. All your staple cards
 1. A proxy printed for each deck a staple goes in with the name of the card and deck on it.
 
-I like to keep all my cards double-sleeved, so I put the double-sleeved cards in the binder.  The proxies are printed from this program and then glued to the front of a junk common.
+I like to keep all my cards double-sleeved, so I put the double-sleeved cards in the binder.  The proxies are printed from this app and then glued to the front of a junk common.
 
 To start, have:
 
@@ -27,3 +29,4 @@ Whenever you pick out a new deck, quickly thumb through and pull out all the pro
 When you finish with a deck, go through the binder and get out all the proxies corresponding to the deck, then find the cards corresponding to them and put them back in the binder and the proxies back in the deck.
 
 It helps if you mark all your staple cards in some way so they are easy to find and remove from the decks.  I put a small dot of white paint on the bottom-left corner of the inner sleeve for each of the staples.
+
